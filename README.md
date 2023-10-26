@@ -4,3 +4,6 @@
 
 - Screenshot of the website:
   ![image](https://github.com/Hexzenberg/Input-page-practice/assets/98541526/92f5c314-01eb-4a43-9028-4c0c8d701608)
+
+
+-Link to the webpage: https://hexzenberg.github.io/Input-page-practice/
